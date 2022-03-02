@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628523315 source:f:\144105_wipercasestudy\fuse.c
+	<avr/io.h>
+
+1628523316 source:d:\test\_wipercasestudy\fuse.c
+	<avr/io.h>
+
